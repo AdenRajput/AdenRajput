@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python, Machine Learning, and Deep Learning.
 - 💞️ I’m looking to collaborate with Data Analytics, Data scientists, and Business Analysts.
 - 📫 How to reach me:
-        - twitter handle: @Aden_Rajput_
-        - 
+        - twitter handle: [@Aden_Rajput_](https://twitter.com/Aden_Rajput_)
         - Email: adenrajput@gmail.com
 
 <!---
