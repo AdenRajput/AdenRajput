@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm passionate about leveraging data science and artificia
 
 📧 Email: adenrajput@gmail.com
 
-📱 LinkedIn: [D. Adan. A](www.linkedin.com/in/d-adan)
+📱 LinkedIn: [D. Adan. A](https://www.linkedin.com/in/d-adan/)
 
 🐦 Twitter: [@Aden_Rajput_](https://twitter.com/Aden_Rajput_)
 
