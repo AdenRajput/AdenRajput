@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Aden]
+# 👋 Hello, I'm Aden
 
 ## 🌐 Data Scientist, Cybersecurity Researcher, and Educational YouTuber
 
@@ -7,20 +7,27 @@ Welcome to my GitHub! I'm passionate about leveraging data science and artificia
 ### 💼 Data Science and Cybersecurity Research
 
 🔍 I specialize in data-driven approaches to cybersecurity, using AI and machine learning to detect and mitigate threats.
+
 🌟 My research interests include anomaly detection, threat intelligence, and privacy-preserving AI in cybersecurity.
+
 🛠️ I'm actively working on cutting-edge projects in the field, and you can find my latest research here in my GitHub repositories.
 
 ### 📺 Educational YouTube Content
 
 🎥 On my YouTube channel, I create engaging and informative content about Mathematics, Data Science, AI, and Cybersecurity.
+
 📚 I share tutorials, explain complex concepts in a simple way, and cover the latest trends.
+
 🔔 Subscribe to my channel [here](https://youtube.com/@E-Academy?si=uo5OZU_abnl178bE) to stay updated with my latest videos.
 
 ### 📫 Let's Connect
 
 📧 Email: adenrajput@gmail.com
+
 📱 LinkedIn: [D. Adan. A](www.linkedin.com/in/d-adan)
+
 🐦 Twitter: [@Aden_Rajput_](https://twitter.com/Aden_Rajput_)
+
 📷 Instagram: [@e.academy12](https://www.instagram.com/e.academy12/)
 
 
